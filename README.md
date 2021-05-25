@@ -1,5 +1,1 @@
-Harshit Shukla        Student
-
-
-
-Learner
+Harshit Shukla
