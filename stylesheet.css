@@ -213,7 +213,7 @@ body.light-mode .socials .social_icons {
 }
 
 body.light-mode .socials .social_icons:nth-child(3n + 1) {
-  color: #F0F1FE;
+  color: #4AB3F4;
 }
 
 body.light-mode .socials .social_icons:nth-child(3n + 2) {
@@ -344,7 +344,7 @@ body.dark-mode .socials .social_icons {
 }
 
 body.dark-mode .socials .social_icons:nth-child(3n + 1) {
-  color: #F0F1FE;
+  color: #4AB3F4;
 }
 
 body.dark-mode .socials .social_icons:nth-child(3n + 2) {
