@@ -213,11 +213,11 @@ body.light-mode .socials .social_icons {
 }
 
 body.light-mode .socials .social_icons:nth-child(3n + 1) {
-  color: #FEB062;
+  color: #F0F1FE;
 }
 
 body.light-mode .socials .social_icons:nth-child(3n + 2) {
-  color: #E54546;
+  color: #70A3D0;
 }
 
 body.light-mode .blog_post code {
@@ -344,11 +344,11 @@ body.dark-mode .socials .social_icons {
 }
 
 body.dark-mode .socials .social_icons:nth-child(3n + 1) {
-  color: #FEB062;
+  color: #F0F1FE;
 }
 
 body.dark-mode .socials .social_icons:nth-child(3n + 2) {
-  color: #E54546;
+  color: #70A3D0;
 }
 
 body.dark-mode .blog_post code {
@@ -514,7 +514,7 @@ nav .toggle {
 }
 
 .blog_post a {
-  color: #DBB6B9;
+  color: #FEA349;
   font-weight: bold;
   word-wrap: break-word;
 }
@@ -741,7 +741,7 @@ nav .toggle {
   z-index: 99;
   border: none;
   outline: none;
-  background-color: #E4C0C3;
+  background-color: #FEB062;
   color: #E54546;
   cursor: pointer;
   padding: 15px;
