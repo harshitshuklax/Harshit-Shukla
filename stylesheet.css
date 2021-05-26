@@ -152,7 +152,7 @@ body.light-mode .header {
 }
 
 body.light-mode .header .profileImg {
-  background-color: #E4C0C3;
+  background-color: #FEB062;
 }
 
 body.light-mode .about {
@@ -166,8 +166,8 @@ body.light-mode .about {
 }
 
 body.light-mode .about h1 {
-  -webkit-text-decoration-color: #E4C0C3;
-          text-decoration-color: #E4C0C3;
+  -webkit-text-decoration-color: #FEB062;
+          text-decoration-color: #FEB062;
 }
 
 body.light-mode .blog {
@@ -213,7 +213,7 @@ body.light-mode .socials .social_icons {
 }
 
 body.light-mode .socials .social_icons:nth-child(3n + 1) {
-  color: #E4C0C3;
+  color: #FEB062;
 }
 
 body.light-mode .socials .social_icons:nth-child(3n + 2) {
@@ -221,7 +221,7 @@ body.light-mode .socials .social_icons:nth-child(3n + 2) {
 }
 
 body.light-mode .blog_post code {
-  background-color: #E4C0C3;
+  background-color: #FEB062;
   color: #222222;
 }
 
@@ -234,7 +234,7 @@ body.light-mode .blog_post .blog_title, body.light-mode .blog_post .blog_heading
 }
 
 body.light-mode .footer_tags .footer_tag, body.light-mode .tags .post_tag {
-  background-color: #E4C0C3;
+  background-color: #FEB062;
   color: white;
 }
 
@@ -290,7 +290,7 @@ body.dark-mode .header {
 body.dark-mode .about {
   -webkit-transition: background-color ease 0.3s, color ease 0.3s;
   transition: background-color ease 0.3s, color ease 0.3s;
-  background-color: #E4C0C3;
+  background-color: #FEB062;
   background-image: url(/svg/design-2.svg);
   background-repeat: repeat-y;
   background-attachment: fixed;
@@ -321,7 +321,7 @@ body.dark-mode .blog .moreBtn {
 body.dark-mode .work {
   -webkit-transition: background-color ease 0.3s, color ease 0.3s;
   transition: background-color ease 0.3s, color ease 0.3s;
-  background-color: #E4C0C3;
+  background-color: #FEB062;
   background-image: url(/svg/monogram-2.svg);
   background-repeat: no-repeat;
   background-position: 3% 95%;
@@ -344,7 +344,7 @@ body.dark-mode .socials .social_icons {
 }
 
 body.dark-mode .socials .social_icons:nth-child(3n + 1) {
-  color: #E4C0C3;
+  color: #FEB062;
 }
 
 body.dark-mode .socials .social_icons:nth-child(3n + 2) {
@@ -352,7 +352,7 @@ body.dark-mode .socials .social_icons:nth-child(3n + 2) {
 }
 
 body.dark-mode .blog_post code {
-  background-color: #E4C0C3;
+  background-color: #FEB062;
   color: #222222;
 }
 
@@ -369,7 +369,7 @@ body.dark-mode .blog_post .gist span {
 }
 
 body.dark-mode .footer_tags .footer_tag, body.dark-mode .tags .post_tag {
-  background-color: #E4C0C3;
+  background-color: #FEB062;
   color: #222222;
 }
 
@@ -409,8 +409,8 @@ nav .header_link {
 
 nav .header_link:hover {
   text-decoration: underline;
-  -webkit-text-decoration-color: #E4C0C3;
-          text-decoration-color: #E4C0C3;
+  -webkit-text-decoration-color: #FEB062;
+          text-decoration-color: #FEB062;
   text-decoration-thickness: 0.25em;
   text-underline-offset: 2px;
 }
@@ -648,7 +648,7 @@ nav .toggle {
 .archive_link .tags .post_tag {
   text-transform: capitalize;
   font-family: "Poppins";
-  background: #E4C0C3;
+  background: #FEB062;
   padding: 5px 8px;
   border-radius: 5px;
   margin-right: 10px;
@@ -753,7 +753,7 @@ nav .toggle {
   -webkit-transition: 0.3s ease;
   transition: 0.3s ease;
   background-color: #222222;
-  color: #E4C0C3;
+  color: #FEB062;
 }
 
 hr {
@@ -914,7 +914,7 @@ hr:after {
 }
 
 .blog .blog_posts .post .moreBtn:hover {
-  background-color: #E4C0C3;
+  background-color: #FEB062;
   -webkit-transition-timing-function: ease-out;
           transition-timing-function: ease-out;
   -webkit-transition: 0.6s;
